@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Yo0pxcz4SV" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Offre PME Beneva</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Offre_PME_Beneva_ORG">
+    <organization identifier="Offre_PME_Beneva_ORG">
+      <title>Offre PME Beneva</title>
+      <item identifier="Offre_PME_-_test_SCO" isvisible="true" identifierref="__6Yo0pxcz4SV_RES">
+        <title>Offre PME Beneva</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Yo0pxcz4SV_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Cks5ruVqPC_P_0_0_1865_1412.jpg" />
+      <file href="mobile/6rlZVi3arbd_Y.png" />
+      <file href="mobile/6j4oEVpsNd7_P_742_1_1243_933.jpg" />
+      <file href="mobile/61qdRoHaOjK.png" />
+      <file href="mobile/66kQjRANWUj.png" />
+      <file href="mobile/6AkHA6PioPG.png" />
+      <file href="mobile/6LNpc1AOS1h.png" />
+      <file href="mobile/6FJNg8tFVTv_P_432_0_1024_1026.jpg" />
+      <file href="mobile/6j4oEVpsNd7_P_648_0_926_933.jpg" />
+      <file href="mobile/6Cks5ruVqPC_P_967_32_719_719.jpg" />
+      <file href="mobile/5ZrtZbldpZs_P_896_0_804_802.jpg" />
+      <file href="mobile/65WniKn2L0X_P_411_0_1020_1021.jpg" />
+      <file href="mobile/5VWoQvPYDkp_P_455_0_1399_1400.jpg" />
+      <file href="mobile/5VWoQvPYDkp_X_P_63_40_1517_1140.jpg" />
+      <file href="mobile/5qqm3ocbHoy.png" />
+      <file href="mobile/5XKscMc5Pu7.png" />
+      <file href="mobile/5pXA4834Ad9.png" />
+      <file href="mobile/6N9KaD9aUjk_P_0_0_1232_1236.png" />
+      <file href="story_content/6QbdJDQFuyU_44100_160_1.mp3" />
+      <file href="mobile/5zSI3b9rojD.png" />
+      <file href="mobile/5ZsgaQikuqs_P_0_0_1842_1833.png" />
+      <file href="mobile/6PxUNh8klkL_P_0_0_1485_1518.png" />
+      <file href="mobile/6cUnl9S5f3g_P_0_474_1471_1505.png" />
+      <file href="mobile/6N9KaD9aUjk_P_0_0_1232_1263.png" />
+      <file href="mobile/5pewlpn6CFD.png" />
+      <file href="mobile/5kQFEUKGLQM.png" />
+      <file href="mobile/647iT3TRLZT.png" />
+      <file href="mobile/5lWKo9b9rAa.png" />
+      <file href="mobile/5hO35EpBJ0U.png" />
+      <file href="mobile/640qPa9HCKD_P_0_0_802_1547.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6GrsYfrBmE1.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5caUX8wUJgv.js" />
+      <file href="html5/data/js/5d3pJXuHiq1.js" />
+      <file href="html5/data/js/5emIoomXEaB.js" />
+      <file href="html5/data/js/5jznEQEBFen.js" />
+      <file href="html5/data/js/5lG5RNU2hCa.js" />
+      <file href="html5/data/js/5lnM73sfw3e.js" />
+      <file href="html5/data/js/5mF4p2t9GAG.js" />
+      <file href="html5/data/js/5V1kgRmStsQ.js" />
+      <file href="html5/data/js/5WS8geRLMhJ.js" />
+      <file href="html5/data/js/5y6v18SZA3m.js" />
+      <file href="html5/data/js/69WR3m5Lw9b.js" />
+      <file href="html5/data/js/6aFetTqj1Ck.js" />
+      <file href="html5/data/js/6BjUwnLHxk9.js" />
+      <file href="html5/data/js/6cp7oQ5dkLw.js" />
+      <file href="html5/data/js/6ct9G55XfIC.js" />
+      <file href="html5/data/js/6GCAcnXiXyS.js" />
+      <file href="html5/data/js/6gizu59AjFT.js" />
+      <file href="html5/data/js/6GZ4UYR6iHL.js" />
+      <file href="html5/data/js/6hCO226bVyP.js" />
+      <file href="html5/data/js/6hdT59qqsLa.js" />
+      <file href="html5/data/js/6IXEclcXZdm.js" />
+      <file href="html5/data/js/6kpzYXweDuv.js" />
+      <file href="html5/data/js/6LjpRBP33QI.js" />
+      <file href="html5/data/js/6n5RFSoCjiF.js" />
+      <file href="html5/data/js/6pfi15Lp4eU.js" />
+      <file href="html5/data/js/6PqjGWeI50x.js" />
+      <file href="html5/data/js/6qQCLvHjLlU.js" />
+      <file href="html5/data/js/6R6R746Vjwd.js" />
+      <file href="html5/data/js/6RKOI5C0ORR.js" />
+      <file href="html5/data/js/6SPfbg7FeDb.js" />
+      <file href="html5/data/js/6SxunxwPYOu.js" />
+      <file href="html5/data/js/6T4oppWHyPw.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
